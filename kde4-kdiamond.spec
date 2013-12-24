@@ -2,7 +2,7 @@
 %define		orgname		kdiamond
 %define		qtver		4.8.0
 
-Summary:	KBreakout
+Summary:	KDiamond
 Name:		kde4-kdiamond
 Version:	4.12.0
 Release:	1
